@@ -2,7 +2,7 @@
 
 This application has been created using Windows Forms to play a simple quiz game.
 
-##Usage
+## Usage
 
 1.Launch the application.
 2.Click the "Next Question" button to view questions.
