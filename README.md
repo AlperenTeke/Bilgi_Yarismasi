@@ -4,10 +4,10 @@ This application has been created using Windows Forms to play a simple quiz game
 
 ## Usage
 
-1.Launch the application.
-2.Click the "Next Question" button to view questions.
-3.Select the correct option for each question.
-4.Keep track of your correct and incorrect counts.
+1. Launch the application.
+2. Click the "Next Question" button to view questions.
+3. Select the correct option for each question.
+4. Keep track of your correct and incorrect counts.
 
 ## Project Structure
 Form1.cs: Includes the main form and event handlers.
